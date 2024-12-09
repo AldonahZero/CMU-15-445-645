@@ -27,7 +27,7 @@ To explore my work:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/15-445-645-database-systems.git
+   https://github.com/AldonahZero/CMU-15-445-645.git
    ```
 2. Navigate to the relevant folder to find project-specific details.
 
