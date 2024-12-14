@@ -16,7 +16,5 @@
 - **主键（Primary Key）**：最小超键。超键是能够唯一标识关系中元组的一组属性，而最小超键是不能再减少其属性数量的超键。
 - **外键（Foreign Key）**：引用另一关系的主键的一组属性。
 
-## 0.3 New Hotness
-- **Vector型数据库**: 最近邻搜索(浮点数组)通常用于存储和检索嵌入式向量（embeddings）。这些嵌入式向量由机器学习模型生成，用于表示文本、图像、音频或其他复杂数据的特征。
-- ![img.png](../img/img.png)
-- **Documents & Json 型数据库**: Document model: MongoDB, CouchDB
+## 0.3 homework
+- **Placeholder Folder**: https://15445.courses.cs.cmu.edu/fall2024/homework1/
