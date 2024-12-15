@@ -10,8 +10,9 @@
 ```bash
 docker-compose up -d
 ```
-进入 SQLite 容器并访问数据库文件
+
+### Docker
+运行以下命令启动 Docker 容器：
 ```bash
 docker exec -it sqlite-container sqlite3 /db/olympics-cmudb2024.db
 ```
- 
